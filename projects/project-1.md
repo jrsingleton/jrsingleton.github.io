@@ -44,7 +44,7 @@ Here is some code that illustrates how we determined if the enemy is hit:
 					}
 ```
 
-You can watch a demonstration here (http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can watch a demonstration here (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share).
 
 
 
