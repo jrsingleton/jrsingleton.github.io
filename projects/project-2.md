@@ -5,7 +5,7 @@ image: images/cotton-square.png
 title: Photography
 permalink: projects/photography
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-12
+date: 2015-04-12
 labels:
   - Business
   - Photography
