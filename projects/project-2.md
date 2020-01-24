@@ -11,7 +11,7 @@ labels:
   - Photography
   - Management
   - Adobe Photoshop
-summary: I was the photographer for a wedding..
+summary: I was the photographer for a wedding.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
