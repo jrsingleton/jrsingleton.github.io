@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/projectpic.png
+image: images/projectpic2.png
 title: Kermit Arcade Game
 permalink: projects/arcadegame
 # All dates must be YYYY-MM-DD format!
