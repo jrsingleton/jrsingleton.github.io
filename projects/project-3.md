@@ -34,6 +34,7 @@ There are five classes involved in this project. The first step was creating all
 <hr>
 Example of a function I created:
 
+``` js
 //function used to remove node by name
 public void removeNode (String inputName) throws PatientException{
 	Nodep cursor = front;
@@ -67,7 +68,7 @@ public void removeNode (String inputName) throws PatientException{
 		previousNode.setNext(cursor.getNext());
 	}
 }
-
+```
 <hr>
 
 
