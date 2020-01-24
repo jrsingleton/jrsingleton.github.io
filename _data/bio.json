@@ -12,12 +12,15 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
+    
     "profiles": [
+      
       {
         "network": "github",
         "username": "jrsingleton",
         "url": "http://github.com/changeme"
       },
+      
       {
         "network": "linkedin",
         "username": "jrsingleton",
@@ -25,6 +28,7 @@
       }
     ]
   },
+  
   "interests": [
     {
       "name": "Cyber Security",
@@ -34,6 +38,7 @@
         "Malware",
       ]
     },
+    
     {
       "name": "Artificial Intelligence",
       "keywords": [
@@ -42,6 +47,7 @@
         "Natural Language Processing",
       ]
     },
+    
     {
       "name": "Psychology",
       "keywords": [
@@ -51,7 +57,9 @@
       ]
     }
   ],
+  
   "skills": [
+    
     {
       "name": "Languages and Frameworks",
       "level": "Beginner",
@@ -59,7 +67,8 @@
         "Java",
         "Javascript"
       ]
-    }, 
+    },
+    
     {
       "name": "Adobe Photoshop",
       "level": "Intermediate",
@@ -67,9 +76,9 @@
         "Lightroom",
         "Photo editting"
       ]
-    
-   
+    }
   ],
+  
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
@@ -80,6 +89,7 @@
       "gpa": "2.99",
     }
   ],
+  
   "work": [
     {
       "company": "Jamba Juice",
@@ -92,9 +102,9 @@
         "responsible for ensuring security of stores", 
         "assembling and disassembling different machines and keeping them in working condition",
         "keeping my work environment up to health and safety standards.",
-        
       ]
     },
+    
     {
       "company": "Subway",
       "position": "Sandwich Artist",
@@ -108,6 +118,7 @@
       ]
     }
   ],
+  
   "awards": [
     {
       "title": "Scholastic Awards in Photography",
@@ -122,10 +133,11 @@
       "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
+  
   "references": [
     {
       "name": "Available upon request",
       "reference": ""
-    }
+    } 
   ]
 }
