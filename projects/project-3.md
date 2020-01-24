@@ -14,12 +14,15 @@ labels:
 summary: A program for a hospital directory.
 ---
 
-
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+When the program runs, a pop up window explains how to use the hospital directory.
 
 <img class="ui image" src="../images/GUI.png">
+
+The user presses 'okay' and the directory appears. User is prompted to enter a patients name, pain triage, insurance coverage, and total balance owed. From here the user has a few options. 
+
+<img class="ui image" src="../images/GUImenu.png">
+
+They can add the patient to the directory, clear the text boxes with 'cancel', find or remove a patient by name, list all patients in the directory, list all patients without insurance, or list all patients with a specific balance.
 
 <hr>
 
