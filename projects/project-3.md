@@ -10,7 +10,7 @@ labels:
   - Algorithms
   - Java
   - Eclipse
-  - 
+  - Graphical User Interface
 summary: A program for a hospital directory.
 ---
 How the program works:
