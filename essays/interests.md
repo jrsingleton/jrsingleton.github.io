@@ -1,7 +1,7 @@
 ---
-layout: 
-type: 
-title: The difficult things will always be difficult
+layout: essay
+type: essay
+title: Personal Interests and Goals
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
