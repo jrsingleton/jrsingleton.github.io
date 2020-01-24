@@ -27,20 +27,27 @@
   },
   "interests": [
     {
-      "name": "Software development",
+      "name": "Cyber Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Cloud",
+        "Virtual Private Network",
+        "Malware",
       ]
     },
     {
-      "name": "Cyber security",
+      "name": "Artificial Intelligence",
       "keywords": [
+        "Data Science",
+        "Deep Learning",
+        "Natural Language Processing",
       ]
     },
     {
-      "name": "Artificial intelligence",
+      "name": "Psychology",
       "keywords": [
+        "Cognitive Computing",
+        "Human Computer Interaction",
+        "Behavioral Science",
       ]
     }
   ],
@@ -52,7 +59,14 @@
         "Java",
         "Javascript"
       ]
-    }
+    }, 
+    {
+      "name": "Adobe Photoshop",
+      "level": "Intermediate",
+      "keywords": [
+        "Lightroom",
+        "Photo editting"
+      ]
     
    
   ],
@@ -64,8 +78,6 @@
       "startDate": "2017-08-01",
       "endDate": "Present",
       "gpa": "2.99",
-      "courses": [
-      ]
     }
   ],
   "work": [
@@ -77,8 +89,10 @@
       "endDate": "Present",
       "summary": "Sales position",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "responsible for ensuring security of stores", 
+        "assembling and disassembling different machines and keeping them in working condition",
+        "keeping my work environment up to health and safety standards.",
+        
       ]
     },
     {
@@ -86,37 +100,11 @@
       "position": "Sandwich Artist",
       "startDate": "2015-10-30",
       "endDate": "2018-06-15",
-      "summary": "",
+      "summary": "Customer service industry & food handling",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Providing quality customer service and ensuring customer satisfaction",
+        "Maintaing good communication among personnel and customers",
+        "Working in chaotic environments, and dealing with conflicts",
       ]
     }
   ],
