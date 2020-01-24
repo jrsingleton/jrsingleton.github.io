@@ -2,14 +2,16 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Essay
-permalink: projects/cotton
+title: Binary Search Tree
+permalink: projects/BST
 # All dates must be YYYY-MM-DD format!
-date: 2017-04-12
+date: 2019-12-10
 labels:
-  - English
-  - American Studies
-summary: A Critical Essay.
+  - Algorithms
+  - Java
+  - Eclipse
+  - 
+summary: A program for a hospital directory.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
