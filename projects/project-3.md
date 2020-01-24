@@ -35,40 +35,38 @@ There are five classes involved in these project. The first step was creating al
 Example of a function i created:
 
 //function used to remove node by name
-		public void removeNode (String inputName) throws PatientException{
-			Nodep cursor = front;
-			Nodep previousNode=front;
-			
-			//while the name of the patient is not the name youre looking for
-			while(! cursor.getPatient().getName().trim().equalsIgnoreCase(inputName.trim())) {
+public void removeNode (String inputName) throws PatientException{
+	Nodep cursor = front;
+	Nodep previousNode=front;
+	//while the name of the patient is not the name youre looking for
+	while(! cursor.getPatient().getName().trim().equalsIgnoreCase(inputName.trim())) {
 				
-				//if youre at the end of the linked list
-				if(cursor.getNext() == null) {
-					System.out.println("Patient to be removed was not found");
-					return;
-				} else {
-					previousNode = cursor;
-					cursor = cursor.getNext();	
-				} 
-			}
-			//if the first node is a match, remove it
-			if(cursor == front) {
-				front = front.getNext();
-				
-			//if theres a match in a node after the first node, remove it
-			}else {
-				previousNode.setNext(cursor.getNext());
-			}
-		
-		//if the first node is a match, remove it
-		if(cursor == front) {
-			front = front.getNext();
-
-		//if theres a match in a node after the first node, remove it
-		}else {
-			previousNode.setNext(cursor.getNext());
-		}
+		//if youre at the end of the linked list
+		if(cursor.getNext() == null) {
+			System.out.println("Patient to be removed was not found");
+			return;
+		} else {
+			previousNode = cursor;
+			cursor = cursor.getNext();	
+		} 
 	}
+	//if the first node is a match, remove it
+	if(cursor == front) {
+		front = front.getNext();
+				
+	//if theres a match in a node after the first node, remove it
+	} else {
+		previousNode.setNext(cursor.getNext());
+	}
+		
+	//if the first node is a match, remove it
+	if(cursor == front) {
+		front = front.getNext();
+	//if theres a match in a node after the first node, remove it
+	}else {
+		previousNode.setNext(cursor.getNext());
+	}
+}
 
 <hr>
 
