@@ -7,17 +7,14 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-27
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Java
+  - Object Oriented Programming
+  - Development
 summary: My team developed a simple arcade style game.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+ >
 </div>
 
 
