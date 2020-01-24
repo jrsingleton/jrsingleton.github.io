@@ -2,57 +2,27 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Essay
-permalink: projects/cotton
+title: Photography
+permalink: projects/photography
 # All dates must be YYYY-MM-DD format!
 date: 2017-04-12
 labels:
-  - English
-  - American Studies
-summary: A Critical Essay.
+  - Business
+  - Photography
+  - Management
+  - Adobe Photoshop
+summary: I was the photographer for a wedding..
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In March 2017 I was hired as the photographer for a wedding. There was a significant amount of planning involved in this project, as well as managing attendees positions and overseeing my assistant photographer. I was in charge of coordinating where and when group photos would take place, which guests my client's preferred photos with, and consulting to agree on key moments to capture.
 
-To give you a flavor of the game, here is an excerpt from one run:
+I was also responsible for editing the photos with PhotoShop and Lightroom. Editting includes correcting white balance, exposure, and making photos more asthetically pleasing. Photographing a wedding leads to a library of hundreds of photos, my final count was 543. Each photo must be editted in similar ways so there isn't any incongruence. After editting, the photos must be formatted for printing or for displaying on a screen.
 
-<hr>
+Overall this project lasted about a month.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
 </pre>
 
 <hr>
