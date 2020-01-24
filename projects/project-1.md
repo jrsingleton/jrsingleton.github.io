@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Kermit Arcade Game
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-11-27
 labels:
   - Robotics
   - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My team developed a simple arcade style game.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +20,31 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I worked with my peer in programming the different classes required for this game.  I started by programming the basics, such as setting up the images and formatting them correctly.  From there, I then programmed the keyboard inputs according to their purpose in the game.  The "W" and "S" keys are used to move the player, and the spacebar is used to shoot.  Next, I added the enemies to the screen using an array of images, they are added to the leftmost edge of the window at random y-values, when the enemies "spawn" they move across the screen at random speeds.  From there, I created functions to make the program register when the player was hit by the enemy, and vice versa.  The game keeps track of your score and diplays it when you lose.
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how we determined if the enemy is hit:
 
 ```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+			// hits is initially 1 
+				int hits;
+
+				while(Player.laser.getXCenter() > -100 ) {
+					hits = 1;
+					//moves the laser from the gun to the left of the screen
+					Player.laser.moveForward(-70 );
+					for(int j = 0; j<handHolder.length; j++) {
+						// detects when the laser hits a hand and teleports it back to the left of the screen
+						if (Player.laser.getXCenter() <= handHolder[j].getXCenter() &&
+								(Player.laser.getYCenter() <= handHolder[j].getYCenter()+handHolder[j].getHeight()/2 && 
+								Player.laser.getYCenter() >= handHolder[j].getYCenter()-handHolder[j].getHeight()/2)) {
+							handHolder[j].teleport2();
+							hits--;
+						}
+					}
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can watch a demonstration here (http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
