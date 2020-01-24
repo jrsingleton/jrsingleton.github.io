@@ -23,9 +23,9 @@ I was also responsible for editing the photos with PhotoShop and Lightroom. Edit
 Overall this project lasted about a month.
 
 
-</pre>
+
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+
 
