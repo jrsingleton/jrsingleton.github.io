@@ -13,10 +13,12 @@ labels:
 summary: My team developed a simple arcade style game.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/projectpic.png">
+<img class="ui image" src="{{ site.baseurl }}/images/projectpic.png">
 
 
-For this project, I worked with my partner in programming the different classes required for this game.  I started by programming the basics, such as setting up the images and formatting them correctly.  From there, I then programmed the keyboard inputs according to their purpose in the game.  The "W" and "S" keys are used to move the player, and the spacebar is used to shoot.  Next, I added the enemies to the screen using an array of images, they are added to the leftmost edge of the window at random y-values, when the enemies "spawn" they move across the screen at random speeds.  From there, I created functions to make the program register when the player was hit by the enemy, and vice versa.  The game keeps track of your score and displays it when you lose.
+ >For this project, I worked with my partner in programming the different classes required for this game.  I started by programming the basics, such as setting up the images and formatting them correctly, and adding in sound effects. I then programmed the keyboard inputs according to their purpose in the game.  The "W" and "S" keys are used to move the player, and the spacebar is used to shoot.  Next, I added the enemies to the screen using an array of images, they are added to the leftmost edge of the window at random y-values, when the enemies "spawn" they move across the screen at random speeds. 
+ 
+ From there, I created functions to make the program register when the player was hit by the enemy, and vice versa.  Each time the player is hit by the enemy, one heart image is removed from the screen, and each time the enemy is hit an explosion image is shown on the screen at the location of the hit. The game keeps track of your score with a FileWriter and displays it when you lose.
 
 Here is some code that illustrates how we determined if the enemy is hit:
 
@@ -37,7 +39,7 @@ while(Player.laser.getXCenter() > -100 ) {
 	}
 ```
 
-You can watch a demonstration here (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share).
+You can watch a demonstration here:  (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share).
 
 
 
