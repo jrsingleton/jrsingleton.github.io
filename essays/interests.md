@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Personal Interests and Goals
-<img class="ui tiny right spaced image" src="../images/sophia.jpg">*Sophia, the AI robot.*
+<img class="ui medium right spaced image" src="../images/sophia.jpg">*Sophia, the AI robot.*
 
 Software engineering is a very interesting field of study. It is also an indescribably useful skill to have. During my time studying software development, I hope to greatly improve my programming skills and problem-solving skills. 
 
