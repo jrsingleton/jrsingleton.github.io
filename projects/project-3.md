@@ -24,6 +24,8 @@ The user presses 'okay' and the directory appears. User is prompted to enter a p
 
 They can add the patient to the directory, clear the text boxes with 'cancel', find or remove a patient by name, list all patients in the directory, list all patients without insurance, or list all patients with a specific balance.
 
+<img class="ui image" src="../images/GUIlist.png">
+
 <hr>
 
 
