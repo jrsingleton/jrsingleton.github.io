@@ -29,10 +29,10 @@ They can add the patient to the directory, clear the text boxes with 'cancel', f
 
 Programming:
 
-There are five classes involved in these project. The first step was creating all necessary get and set methods, and within each set method the limitations are implemented (i.e. patient name must be greater than 5 characters). The next step was creating the exception class, to use when throwing an exception (when a patient's name is greater than 5 characters). A toString was necessary to format the display of each patients information. The next step was creating nodes of each patient object, get and set methods were utilized. The nodes are used in creating a linked list of nodes. The linked list is essential in checking the information of each patient. Then, I created functions to reference within the hospital directory. The last step was implementing the GUI and formatting the menu to be user friendly.
+There are five classes involved in this project. The first step was creating all necessary get and set methods, and within each set method the limitations are implemented (i.e. patient name must be greater than 5 characters). The next step was creating the exception class, to use when throwing an exception (when a patient's name is greater than 5 characters). A toString was necessary to format the display of each patient's information. The next step was creating nodes of each patient object, get and set methods were utilized. The nodes are used in creating a linked list of nodes. The linked list is essential in checking the information of each patient. Then, I created functions to reference within the hospital directory. The last step was implementing the GUI and formatting the menu to be user-friendly.
 
 <hr>
-Example of a function i created:
+Example of a function I created:
 
 //function used to remove node by name
 public void removeNode (String inputName) throws PatientException{
