@@ -21,22 +21,20 @@ For this project, I worked with my peer in programming the different classes req
 Here is some code that illustrates how we determined if the enemy is hit:
 
 ```js
-			// hits is initially 1 
-				int hits;
+// hits is initially 1 
+int hits;
 
-				while(Player.laser.getXCenter() > -100 ) {
-					hits = 1;
-					//moves the laser from the gun to the left of the screen
-					Player.laser.moveForward(-70 );
-					for(int j = 0; j<handHolder.length; j++) {
-						// detects when the laser hits a hand and teleports it back to the left of the screen
-						if (Player.laser.getXCenter() <= handHolder[j].getXCenter() &&
-								(Player.laser.getYCenter() <= handHolder[j].getYCenter()+handHolder[j].getHeight()/2 && 
-								Player.laser.getYCenter() >= handHolder[j].getYCenter()-handHolder[j].getHeight()/2)) {
-							handHolder[j].teleport2();
-							hits--;
-						}
-					}
+while(Player.laser.getXCenter() > -100 ) {
+	hits = 1;
+	//moves the laser from the gun to the left of the screen
+	Player.laser.moveForward(-70 );
+	for(int j = 0; j<handHolder.length; j++) {
+	// detects when the laser hits a hand and teleports it back to the left of the screen
+		if (Player.laser.getXCenter() <= handHolder[j].getXCenter() &&
+		(Player.laser.getYCenter() <= handHolder[j].getYCenter()+handHolder[j].getHeight()/2 && 
+		handHolder[j].teleport2();
+		hits--;
+	}
 ```
 
 You can watch a demonstration here (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share).
