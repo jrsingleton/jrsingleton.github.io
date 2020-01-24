@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Binary Search Tree
+image: images/hospital.jpg
+title: Hospital Directory Program
 permalink: projects/BST
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-10
