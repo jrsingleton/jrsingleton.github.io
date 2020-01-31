@@ -26,3 +26,4 @@ Above is a great example of an intelligent question! The inquirer is asking a fa
 On the other hand, [this](https://stackoverflow.com/questions/59962240/why-doesnt-my-loop-terminate-after-successful-attempt) is an example of how you should not ask a question on stack overflow. The inquirer attempts to appear as if they just want to understand loops more, but it seems that they are just searching for the answer to an assignment. It is also clear to see they did not research prior to posting this question. The programmers’ answers to this question are good answers, but some are confused about what exactly the question is, and one of their tips was just to use a “return” rather than “break”. If the inquirer had tested their code extensively they probably would have figured that out for themselves.
 
 <hr>
+<hr>
