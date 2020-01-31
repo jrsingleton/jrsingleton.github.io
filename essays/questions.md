@@ -17,7 +17,7 @@ Although stupid questions don’t exist, smart questions most certainly do exist
 
 <img class="ui image" src="{{ site.baseurl }}/images/stackpic.png">
 
-[read more here] (https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
+[read more here](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 Above is a great example of an intelligent question! The inquirer is asking a fairly simple question, “Why is processing a sorted array faster than processing an unsorted array?”. At first glance, this seems like a stupid question, but as you continue reading the inquirer shows that they want to understand the process and logic behind arrays. They provide the program that sparked their curiosity, demonstrated what they did to solve the problem themselves, and what they thought the answer might be. The answers to this question show that it was a smart question, the programmers respond with lengthy statements and analogies with the intention of teaching their knowledge.
 
 
