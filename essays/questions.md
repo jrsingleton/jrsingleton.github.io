@@ -15,7 +15,8 @@ labels:
 
 Although stupid questions don’t exist, smart questions most certainly do exist. When you ask a smart question, you essentially show that you have made a lengthy effort in attempting to solve the question yourself, prior to asking the question. If you are searching for help on a programming assignment, stack overflow is probably the place you will begin your pursuit of knowledge. It is extremely important to keep the distinction between stupid and dumb questions in mind while on stack overflow, as programmers don’t respond well if you ask a question that is not smart.
 
-<img class="ui large center spaced image" src="../images/stackpic.png"> **
+<img class="ui image" src="{{ site.baseurl }}/images/stackpic.png">
+
 [read more here] (https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 Above is a great example of an intelligent question! The inquirer is asking a fairly simple question, “Why is processing a sorted array faster than processing an unsorted array?”. At first glance, this seems like a stupid question, but as you continue reading the inquirer shows that they want to understand the process and logic behind arrays. They provide the program that sparked their curiosity, demonstrated what they did to solve the problem themselves, and what they thought the answer might be. The answers to this question show that it was a smart question, the programmers respond with lengthy statements and analogies with the intention of teaching their knowledge.
 
