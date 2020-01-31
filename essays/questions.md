@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: he Perception of Questions and Intelligence
+title: The Perception of Questions and Intelligence
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-30
 labels:
