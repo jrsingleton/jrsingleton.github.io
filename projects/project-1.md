@@ -39,7 +39,9 @@ while(Player.laser.getXCenter() > -100 ) {
 	}
 ```
 
-You can watch a demonstration here: https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share
+You can watch a demonstration [here] (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share)
+
+<hr>
 
 
 
