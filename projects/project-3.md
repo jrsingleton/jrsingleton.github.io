@@ -13,20 +13,27 @@ labels:
   - Graphical User Interface
 summary: A program for a hospital directory.
 ---
+
+<hr>
 ###### How the program works:
 
 When the program runs, a pop up window explains how to use the hospital directory.
 
+<hr>
 <img class="ui image" src="../images/GUI.png">
+<hr>
 
 The user presses 'okay' and the directory appears. User is prompted to enter a patients name, pain triage, insurance coverage, and total balance owed. From here the user has a few options. 
 
+<hr>
 <img class="ui image" src="../images/GUImenu.png">
+<hr>
 
 They can add the patient to the directory, clear the text boxes with 'cancel', find or remove a patient by name, list all patients in the directory, list all patients without insurance, or list all patients with a specific balance.
 
+<hr>
 <img class="ui image" src="../images/GUIlist.png">
-
+<hr>
 ###### Programming:
 
 There are five classes involved in this project. The first step was creating all necessary get and set methods, and within each set method the limitations are implemented (i.e. patient name must be greater than 5 characters). The next step was creating the exception class, to use when throwing an exception (when a patient's name is greater than 5 characters). A toString was necessary to format the display of each patient's information.
@@ -71,6 +78,7 @@ public void removeNode (String inputName) throws PatientException{
 	}
 }
 ```
+<hr>
 <hr>
 
 
