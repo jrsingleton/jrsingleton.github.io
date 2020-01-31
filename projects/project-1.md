@@ -41,7 +41,7 @@ while(Player.laser.getXCenter() > -100 ) {
 ```
 I learned an immense amount about programming during this project. I strengthened my programming skills in Java, and improved my problem solving skills as well. I also gained experience on working with a team to program one project, determining each of our roles and agreeing on the project plans was crucial to produce a quality end result. This project was also very useful in improving my detail orientation, there are many stylistic elements that rely on specific coding syntax that you don't anticipate if you don't have sufficient experience with programming. Experience and practice is the best way to learn, I certainly gained a lot of each!
 
-You can watch a demonstration [here] (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share)
+You can watch a demonstration [here](https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share)
 
 <hr>
 
