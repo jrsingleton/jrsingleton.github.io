@@ -10,11 +10,12 @@ labels:
   - Java
   - Object Oriented Programming
   - Development
+  - Eclipse
 summary: My team developed a simple arcade style game.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/projectpic.png">
-
+<hr>
 
  For this project, I worked with my partner in programming the different classes required for this game.  I started by programming the basics, such as setting up the images and formatting them correctly, and adding in sound effects. I then programmed the keyboard inputs according to their purpose in the game.  The "W" and "S" keys are used to move the player, and the spacebar is used to shoot.  Next, I added the enemies to the screen using an array of images, they are added to the leftmost edge of the window at random y-values, when the enemies "spawn" they move across the screen at random speeds. 
  
@@ -38,6 +39,7 @@ while(Player.laser.getXCenter() > -100 ) {
 		hits--;
 	}
 ```
+I learned an immense amount about programming during this project. I strengthened my programming skills in Java, and improved my problem solving skills as well. I also gained experience on working with a team to program one project, determining each of our roles and agreeing on the project plans was crucial to produce a quality end result. This project was also very useful in improving my detail orientation, there are many stylistic elements that rely on specific coding syntax that you don't anticipate if you don't have sufficient experience with programming. Experience and practice is the best way to learn, I certainly gained a lot of each!
 
 You can watch a demonstration [here] (https://www.youtube.com/watch?v=uDI-i-WEaTo&feature=share)
 
