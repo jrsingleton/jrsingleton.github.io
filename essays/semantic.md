@@ -17,5 +17,5 @@ My Semantic UI journey has not been the smoothest. To begin, I attempted to inst
 
 In my current state of expertise with HTML and CSS, I am finding Semantic UI to be quite difficult. Combining the bits of confusion about HTML that linger in my mind, with the large amounts of confusion I have about Semantic UI can be a bit catastrophic. I find myself implementing certain pieces of web development in convoluted ways, my more experienced peer may do what I did in 5 lines, in only one line. 
 
-	Despite all of my own negative experiences, I can see how Semantic UI will be very useful in the future. It makes elaborate HTML code much more readable once you have some understanding of the denotations of Semantic. After the time and frustration, Semantic seems to make implementing certain styles and elements in web development easier, and it comes with a huge variety of components and themes.
+Despite all of my own negative experiences, I can see how Semantic UI will be very useful in the future. It makes elaborate HTML code much more readable once you have some understanding of the denotations of Semantic. After the time and frustration, Semantic seems to make implementing certain styles and elements in web development easier, and it comes with a huge variety of components and themes.
 <hr>
