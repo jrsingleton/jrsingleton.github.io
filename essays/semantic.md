@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-## Is Semantic UI Worth the Sweat and Tears?
+
 <hr>
 My Semantic UI journey has not been the smoothest. To begin, I attempted to install Semantic UI with Gulp in the command line; the result was a long list of errors. I spent about four hours trying different methods to fix the errors, including uninstalling all Node and Gulp files and reinstalling them from scratch. In this process, I managed to create a whole different problem that I had to resolve. After all of this hassle, one of my peers informed me that he had the same errors, but Semantic UI still works as long as it is linked in the head of the index file. The time wasted was quite painful but I learned more about utilizing the command line in the process.
 
