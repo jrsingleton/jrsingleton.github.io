@@ -10,7 +10,7 @@ labels:
   - University
 ---
 
-<img class="ui medium centered image" src="../images/distance.png">
+<img class="ui centered image" src="../images/distance.png">
 
 ## Changes in day-to-day life 
 The COVID pandemic has changed my daily routine in nearly every conceivable way. I typically work at a smoothie shop and my coworkers and I have somehow been deemed “essential workers”. I’m lucky to have not been laid off, but I decided to forgo working for the moment; I am considered at risk for serious illness. So, now I spend all day every day at home. Going grocery shopping has always been the bane of my existence, but now, I'm excited to go just to get out of the house! I'm grateful to have the ability to stay home, and especially grateful for those who are continuing to work during this time.
