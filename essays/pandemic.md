@@ -5,10 +5,9 @@ title: How has COVID-19 affected me?
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-02
 labels:
-  - Software Engineering
-  - Web Development
-  - HTML
-  - CSS
+  - Distance Learning
+  - Remote Work
+  - University
 ---
 
 ## Changes in day-to-day life 
