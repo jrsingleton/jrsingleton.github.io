@@ -24,7 +24,7 @@ ponens argument form can be used to demonstrate this proposition:
 
 - Lying is wrong. 
 - If you omit the truth, then you are lying. 
-   Therefore
+Therefore
 - Omitting the truth is wrong. 
 
 I would argue that being ethical and following morals is important in nearly all decisions a person will 
