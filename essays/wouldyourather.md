@@ -16,7 +16,7 @@ Imagine this: You are at a restaurant and you notice your friend’s wife on wha
 Should you tell your friend and possibly ruin his marriage?
 
 In [Schrodinger's cat thought experiment](https://news.berkeley.edu/2014/07/30/watching-schrodingers-cat-die/),
-the cat is simultaenously dead and alive while it is in the box, but when you open the box, you kill the cat.
+the cat is both dead and alive at the same time while it is in the box, but when you open the box, you kill the cat.
 Following the same logic, since you don’t know if the wife is cheating or not, you may “kill the cat” by telling 
 your friend. But what if not telling your friend leads to worse heartache down the line? This is a very sticky 
 moral dilemma; there are many pros and cons for each choice. The choice and reasoning you ultimately decide on 
@@ -51,11 +51,8 @@ A vehicle can be a destructive weapon in the wrong hands, it must be extremely s
 or injury in an unavoidable accident, I must follow the generally accepted best practices, unless there 
 is a compelling ethical reason to change it. 
 
-Some of the moral dilemmas I would face working on the navigation algorithm are straight out of a 
-philosophy text book. The sensitive data is necessary, 
-it would be important to store that data to improve the algorithm, so I don't see maintaining access
-to the information as unethical as long as there are precautions to have all data remain 
-confidential. There is no “right” answer for the question of handling an unavoidable accident. 
+Some of the moral dilemmas I would face working on the navigation algorithm are straight out of a philosophy text book.
+Storing the sensitive data would be absolutely necessary, that data could be used to assist the passenger, and improve the safety and efficiency of the algorithm. As long as the correct precautions are implemented to maintain complete confedentiality of all sensitive data, and only collect the minimum ammount of personal information necessary, I would be respecting privacy and maintaining morality. There is no “right” answer for the question of handling an unavoidable accident. 
 Vehicles are often marketed by how safe they keep the people inside the vehicle, not how little 
 damage they will do to people outside of the vehicle.
 	
