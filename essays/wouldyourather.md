@@ -9,9 +9,9 @@ labels:
   - Ethics
   - Philosophy
 ---
-<hr>
-<img class="ui medium centered image" src="/images/ethics.jpg">
 
+<img class="ui medium centered image" src="/images/ethics.jpg">
+<hr>
 ## The Moral Dilemma
 
 Imagine this: You are at a restaurant and you notice your friend’s wife on what seems like a date. 
