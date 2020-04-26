@@ -10,7 +10,7 @@ labels:
   - Philosophy
 ---
 
-<img class="ui medium centered floated image" src="/images/ethics.jpg">
+<img class="ui medium centered image" src="/images/ethics.jpg">
 
 ## The Moral Dilemma
 
@@ -47,7 +47,7 @@ Some moral principles of an ethical software engineer are to; never advertently 
 the public, their clients, colleagues, and employers, and always create products of the best possible standards.
 This code of ethics is created for software engineers, but it can be used in other places in your life as well; as was demonstrated in the thought experiment above.
 
-<img class="ui small centered floated image" src="/images/AIdiagram.png">
+<img class="ui medium centered image" src="/images/AIdiagram.png">
 
 ## Ethical Analysis of a Hypothetical Situation
 
@@ -62,7 +62,7 @@ or injury in an unavoidable accident, I must follow the generally accepted best 
 is a compelling ethical reason to change it. 
 
 
-<img class="ui small centered floated image" src="/images/Trolley_problem.png">
+<img class="ui medium centered image" src="/images/Trolley_problem.png">
 
 Some of the moral dilemmas I would face working on the navigation algorithm are straight out of a philosophy text book.
 Storing the sensitive data would be absolutely necessary, that data could be used to assist the passenger, and improve the safety and efficiency of the algorithm. As long as the correct precautions are implemented to maintain complete confedentiality of all sensitive data, and only collect the minimum ammount of personal information necessary, I would be respecting privacy and maintaining morality. There is no “right” answer for the question of handling an unavoidable accident. 
