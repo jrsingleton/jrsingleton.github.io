@@ -72,6 +72,6 @@ Storing the sensitive data would be absolutely necessary, that data could be use
 Vehicles are often marketed by how safe they keep the people inside the vehicle, not how little 
 damage they will do to people outside of the vehicle.
 	
-	
+	<hr>
 <hr>
 
