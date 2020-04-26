@@ -17,7 +17,6 @@ labels:
 Imagine this: You are at a restaurant and you notice your friend’s wife on what seems like a date. 
 Should you tell your friend and possibly ruin his marriage? Should you turn a blind eye?
 
-While considering how you would react, it may help to imagine the ripple effect your decision may make.
 In [Schrodinger's cat thought experiment](https://news.berkeley.edu/2014/07/30/watching-schrodingers-cat-die/),
 the cat is both dead and alive at the same time while it is in the box, but when you open the box, you kill the cat.
 Following the same logic, since you don’t know if your friend's wife being unfaithful or not, you may “kill the cat” by telling your friend. But what if not telling your friend leads to worse heartache down the line? Perhaps there is hubris in the idea that something does not exist if you don't profess it. 
@@ -41,8 +40,7 @@ professionally, in software engineering this is the [Software Engineering Code o
 Practice](https://www.computer.org/education/code-of-ethics). This isn’t necessarily a set of commandments,
 it is more so a guide to help you make ethical professional decisions. 
 
-Ethics usually means the same thing
-no matter the context, ethics are moral principles that govern a person's behavior or the conduct of an activity.
+Ethics are moral principles that govern a person's behavior or the conduct of an activity.
 Some moral principles of an ethical software engineer are to; never advertently or inadvertently cause harm to the public, their clients, colleagues, and employers, and always create products of the best possible standards.
 This code of ethics is created for software engineers, but it can be used in other places in your life as well; as was demonstrated in the thought experiment above.
 
