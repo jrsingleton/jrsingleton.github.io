@@ -10,6 +10,8 @@ labels:
   - Philosophy
 ---
 
+<img class="ui medium centered floated image" src="/images/ethics.jpc">
+
 ## The Moral Dilemma
 
 Imagine this: You are at a restaurant and you notice your friend’s wife on what seems like a date. 
@@ -43,7 +45,9 @@ it is more so a guide to help you make ethical professional decisions. Ethics us
 no matter the context, ethics are moral principles that govern a person's behavior or the conduct of an activity.
 Some moral principles of an ethical software engineer are to; never advertently or inadvertently cause harm to 
 the public, their clients, colleagues, and employers, and always create products of the best possible standards.
-This code of ethics is created for software engineers, but it can be used in other places in your life as well; as was demonstrated in the thought experiment above
+This code of ethics is created for software engineers, but it can be used in other places in your life as well; as was demonstrated in the thought experiment above.
+
+<img class="ui small centered floated image" src="/images/AIdiagram.png">
 
 ## Ethical Analysis of a Hypothetical Situation
 
@@ -57,6 +61,8 @@ A vehicle can be a destructive weapon in the wrong hands, it must be extremely s
 or injury in an unavoidable accident, I must follow the generally accepted best practices, unless there 
 is a compelling ethical reason to change it. 
 
+
+<img class="ui small centered floated image" src="/images/Trolley_problem.png">
 
 Some of the moral dilemmas I would face working on the navigation algorithm are straight out of a philosophy text book.
 Storing the sensitive data would be absolutely necessary, that data could be used to assist the passenger, and improve the safety and efficiency of the algorithm. As long as the correct precautions are implemented to maintain complete confedentiality of all sensitive data, and only collect the minimum ammount of personal information necessary, I would be respecting privacy and maintaining morality. There is no “right” answer for the question of handling an unavoidable accident. 
