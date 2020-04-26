@@ -50,7 +50,7 @@ This code of ethics is created for software engineers, but it can be used in oth
 
 <hr>
 
-<img class="ui medium centered spaced image" src="/images/AIdiagram.png">
+<img class="ui large center spaced image" src="/images/AIdiagram.png">
 
 ## Ethical Analysis of a Hypothetical Situation
 
@@ -66,7 +66,7 @@ is a compelling ethical reason to change it.
 
 <hr>
 
-<img class="ui medium centered spaced image" src="/images/Trolley_problem.png">
+<img class="ui large center spaced image" src="/images/Trolley_problem.png">
 
 Some of the moral dilemmas I would face working on the navigation algorithm are straight out of a philosophy text book.
 Storing the sensitive data would be absolutely necessary, that data could be used to assist the passenger, and improve the safety and efficiency of the algorithm. As long as the correct precautions are implemented to maintain complete confedentiality of all sensitive data, and only collect the minimum ammount of personal information necessary, I would be respecting privacy and maintaining morality. There is no “right” answer for the question of handling an unavoidable accident. 
