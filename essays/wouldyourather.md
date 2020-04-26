@@ -21,7 +21,9 @@ While considering how you would react, it may help to imagine the ripple effect 
 In [Schrodinger's cat thought experiment](https://news.berkeley.edu/2014/07/30/watching-schrodingers-cat-die/),
 the cat is both dead and alive at the same time while it is in the box, but when you open the box, you kill the cat.
 Following the same logic, since you don’t know if your friends wife being unfaithful or not, you may “kill the cat” by telling 
-your friend. But what if not telling your friend leads to worse heartache down the line? Perhaps there is hubris in the idea that something does not exist if you don't profess it. Nevertheless, this is a very sticky 
+your friend. But what if not telling your friend leads to worse heartache down the line? Perhaps there is hubris in the idea that something does not exist if you don't profess it. 
+
+Nevertheless, this is a very sticky 
 moral dilemma; there are pros and cons for each choice. The choice and reasoning you ultimately decide on 
 demonstrates your sense of ethics. If you follow the Association for Computing Machinery 
 [Code of Ethics](https://www.acm.org/code-of-ethics), you may decide to tell your friend because you value
@@ -42,7 +44,9 @@ I would argue that being ethical and following morals is important in nearly all
 have to make, but personal ethics are highly subjective. So, a universal code of ethics must be used 
 professionally, in software engineering this is the [Software Engineering Code of Ethics and Professional 
 Practice](https://www.computer.org/education/code-of-ethics). This isn’t necessarily a set of commandments,
-it is more so a guide to help you make ethical professional decisions. Ethics usually means the same thing
+it is more so a guide to help you make ethical professional decisions. 
+
+Ethics usually means the same thing
 no matter the context, ethics are moral principles that govern a person's behavior or the conduct of an activity.
 Some moral principles of an ethical software engineer are to; never advertently or inadvertently cause harm to 
 the public, their clients, colleagues, and employers, and always create products of the best possible standards.
