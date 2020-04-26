@@ -15,7 +15,7 @@ labels:
 ## The Moral Dilemma
 
 Imagine this: You are at a restaurant and you notice your friend’s wife on what seems like a date. 
-Should you tell your friend and possibly ruin his marriage? Or, should you turn a blind eye?
+Should you tell your friend and possibly ruin his marriage? Should you turn a blind eye?
 
 While considering how you would react, it may help to imagine the ripple effect your decision may make.
 In [Schrodinger's cat thought experiment](https://news.berkeley.edu/2014/07/30/watching-schrodingers-cat-die/),
