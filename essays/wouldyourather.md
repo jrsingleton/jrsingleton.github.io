@@ -10,7 +10,7 @@ labels:
   - Philosophy
 ---
 <hr>
-<img class="ui medium centered spaced image" src="/images/ethics.jpg">
+<img class="ui medium spaced image" src="/images/ethics.jpg">
 
 ## The Moral Dilemma
 
