@@ -18,8 +18,8 @@ Should you tell your friend and possibly ruin his marriage? Or, should you turn 
 While considering how you would react, it may help to imagine the ripple effect your decision may make.
 In [Schrodinger's cat thought experiment](https://news.berkeley.edu/2014/07/30/watching-schrodingers-cat-die/),
 the cat is both dead and alive at the same time while it is in the box, but when you open the box, you kill the cat.
-Following the same logic, since you don’t know if the wife is cheating or not, you may “kill the cat” by telling 
-your friend. But what if not telling your friend leads to worse heartache down the line? Perhaps the idea that something does not exist if you don't profess it, has hubris. Nevertheless, this is a very sticky 
+Following the same logic, since you don’t know if your friends wife being unfaithful or not, you may “kill the cat” by telling 
+your friend. But what if not telling your friend leads to worse heartache down the line? Perhaps there is hubris in the idea that something does not exist if you don't profess it. Nevertheless, this is a very sticky 
 moral dilemma; there are pros and cons for each choice. The choice and reasoning you ultimately decide on 
 demonstrates your sense of ethics. If you follow the Association for Computing Machinery 
 [Code of Ethics](https://www.acm.org/code-of-ethics), you may decide to tell your friend because you value
@@ -48,11 +48,11 @@ This code of ethics is created for software engineers, but it can be used in oth
 ## Ethical Analysis of a Hypothetical Situation
 
 For the sake of this analysis, I am a software engineer on a team that is tasked with developing the 
-navigation algorithm for a self-driving car. First, I consider any and all possible negative impacts of
+navigation algorithm for a self-driving car, and I want to follow the standards of the [ACM Code](https://www.acm.org/code-of-ethics) and the [SE Code](https://www.computer.org/education/code-of-ethics). First, I consider any and all possible negative impacts of
 my computing. My navigation algorithm will take in a lot of sensitive data; photographs and video 
 recorded may contain sensitive information of bystanders or my client,  and location information of 
-the car may reveal my clients “usual” routes.  If my navigation algorithm is accessed by someone who 
-is unauthorized, they could cause a great deal of unjust harm to my client, the public, and property.
+the car may reveal my clients “usual” routes. If my navigation algorithm is accessed by someone who 
+is unauthorized, they could potentially take control of the vehicle and cause a great deal of unjust harm to my client, the public, and property.
 A vehicle can be a destructive weapon in the wrong hands, it must be extremely secure. To minimize death 
 or injury in an unavoidable accident, I must follow the generally accepted best practices, unless there 
 is a compelling ethical reason to change it. 
