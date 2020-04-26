@@ -48,7 +48,6 @@ This code of ethics is created for software engineers, but it can be used in oth
 
 <hr>
 
-<img class="ui large centered image" src="/images/AIdiagram.png">
 
 ## Ethical Analysis of a Hypothetical Situation
 
@@ -59,15 +58,17 @@ A vehicle can be a destructive weapon in the wrong hands, it must be extremely s
 
 <hr>
 
-
-
+## What would I do?
 My personal opinion as to the ethical stance to be taken is a bit complicated.
 Storing the sensitive data would be necessary, that data could be used to assist the passenger, and improve the safety and efficiency of the algorithm. As long as the correct precautions are implemented to maintain complete confidentiality of all sensitive data, and only collect the minimum amount of personal information necessary, I would be respecting privacy and maintaining morality. 
 
+### The Unavoidable Accident
 <img class="ui large centered image" src="/images/Trolley_problem.png">
 There is no “right” answer for the question of handling an unavoidable accident. 
 Vehicles are often marketed by how safe they keep the people inside the vehicle, not how little 
 damage they will do to people outside of the vehicle. But thankfully it is not my job to market the vehicle in this hypothetical.  The [Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem) thought experiment models a very similar ethical dilemma as the vehicle model. In the Trolley Problem, there are two options, you either interfere or don't interfere. According to the [Utilitarian view](https://www.britannica.com/topic/utilitarianism-philosophy) you must interfere to save the five people, it is not only obligatory but the most moral option. On the other hand, the [deontological ethics](https://www.britannica.com/topic/deontological-ethics) is of the view that action itself must be judged based on being right or wrong alone, without consideration for consequences, so if you interfere you caused the man to die. 
+
+<img class="ui large centered image" src="/images/AIdiagram.png">
 
 The unavoidable accident that my algorithm has to face has no option to not interfere. The algorithm created by my team must make a decision and I believe the most ethical decision is to cause the least amount of harm possible, even if this means killing the passenger. The vehicle can be made as safe as possible to protect the passenger, but pedestrians and bystanders have nothing to protect them. There is an idea stated in [this](https://arxiv.org/pdf/1510.03346v1.pdf) study that the public participates in a survey and the method most favored by the public is the one that will be implemented. I think this is an ethical choice as it acknowledges that the people are all stakeholders in computing, but to be perfected it must take the needs of the less privileged into account. The idea that the vehicle makes a different decision based on whether a passenger is young or old is EXTREMELY unethical, it is discriminatory and it implies some lives are worth more than others.
 	
