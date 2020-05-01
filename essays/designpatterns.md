@@ -31,13 +31,13 @@ You don’t need to use these patterns if you don't want to, but our software en
 solve common problems and save time. If you were working with a team and you informed them of which design pattern you would
 use to solve a problem, they would know what the solution would likely look like, as well as the pros and cons of that 
 approach. If you encounter a problem enough times, likely, you will even create your own design patterns. 
-The Factory pattern is one I have used many times. Rather than reciting and defining the same code over and over again,
-you simply extend the class from a child class to utilize the code.
+The [Factory pattern](https://www.geeksforgeeks.org/design-patterns-set-2-factory-method/) is one I have used rather often. Rather than reciting and defining the same code over and over again,
+you simply pass the type of a method from the client to the factory method to create.
 <hr>
 
 ## The Singleton Pattern
 
-It would be despicable of me to not mention my namesake, the Singleton pattern.
+It would be despicable of me to not mention my namesake, the [Singleton pattern](https://www.geeksforgeeks.org/singleton-design-pattern/).
 It may be considered an anti-pattern... and it may make code difficult to debug... and if you change it,
 it could disrupt your whole application. But sometimes it's good to have code that cannot be cloned, 
 one example of this is logging.
