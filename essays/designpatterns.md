@@ -7,7 +7,7 @@ date: 2020-04-30
 labels:
   - Software Engineering
   - Design Patterns
-  - 
+  - Energy
 ---
 
 <hr>
