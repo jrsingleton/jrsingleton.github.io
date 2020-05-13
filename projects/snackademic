@@ -18,7 +18,8 @@ summary: My team developed an application to show restaurants around UH Manoa.
 <hr>
 
  For this project, I worked with a team of 4 people, including myself. 
- I started by programming the basics, such as setting up the images and formatting them correctly, and adding in
+ We started by determining how to distribute the work evenly amongst the team, and played to each teammembers skillset.
+ This project was completed during the Covid-19 pandemic, so we worked completely remotely. 
  sound effects. I then programmed the keyboard inputs according to their purpose in the game.  The "W" and "S" keys
  are used to move the player, and the spacebar is used to shoot.  Next, I added the enemies to the screen using an 
  array of images, they are added to the leftmost edge of the window at random y-values, when the enemies "spawn" 
