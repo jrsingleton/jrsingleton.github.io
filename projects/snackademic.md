@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/snackademic-logo-pinkbg.jpg
+image: images/snackademic-logo-bluebg.jpg
 title: Snackademic
 permalink: /projects/snackademic
 date: 2020-05-12
