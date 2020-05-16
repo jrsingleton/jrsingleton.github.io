@@ -1,6 +1,5 @@
 ---
-layout: essay
-type: essay
+
 title: Personal Interests and Goals
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
