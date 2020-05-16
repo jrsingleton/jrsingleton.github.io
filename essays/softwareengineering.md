@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ethical Would You Rather...
+title: Newfound Knowledge of an Engineer
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-15
 labels:
