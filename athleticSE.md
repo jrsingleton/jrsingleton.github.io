@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+
 title: Is Java-Script the Superior Language?
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-20
