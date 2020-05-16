@@ -62,10 +62,13 @@
     
     {
       "name": "Languages and Frameworks",
-      "level": "Beginner",
+      "level": "Intermediate",
       "keywords": [
         "Java",
-        "Javascript"
+        "Javascript",
+        "C",
+        "C++",
+        "HTML/CSS"
       ]
     },
     
@@ -76,13 +79,23 @@
         "Lightroom",
         "Photo editting"
       ]
+    },
+    
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Meteor",
+        "React",
+        "Semantic-UI"
+      ]
     }
   ],
   
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2022)",
+      "area": "Computer Science (expected Fall, 2021)",
       "studyType": "B.A.",
       "startDate": "2017-08-01",
       "endDate": "Present",
