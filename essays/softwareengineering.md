@@ -22,4 +22,6 @@ I have used my fair share of development environments such as Eclipse, Unix, and
 ## Web and Back-end Development
 Overall, I have learned so much during this class. I feel that I can effectively develop websites with my knowledge of javascript, HTML, CSS, and Meteor. But I furthered my knowledge in backend development as well. Engineering is not so much about memorizing each programming language, but understanding how a computer or website “thinks” and once you master that, it is not difficult to learn new programming languages and implement your problem-solving skills when you're working on a project, I feel that software engineering has improved these skills immensely.
 
+<br>
+
 
