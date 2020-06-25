@@ -5,7 +5,7 @@
     "picture": "https://jrsingleton.github.io/images/professionalphoto.jpeg",
     "email": "jrsingle@hawaii.edu",
     "website": "https://jrsingleton.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Science with a minor in Psychology, at the University of Hawaii. I expect to graduate in Fall, 2021. I intend to pursue a career in security science or softare engineering.",
+    "summary": "I am currently an undergrad at the University of Hawaiʻi, I expect to graduate with my Bachelor's in Information and Computer Science, Minor in Psychology in Fall, 2021 . I intend to pursue a career in information security or software engineering.",
     "location": {
       "postalCode": "96822",
       "city": "Honolulu",
@@ -33,9 +33,9 @@
     {
       "name": "Cyber Security", 
       "keywords": [
-        "Cloud",
-        "Virtual Private Network", 
-        "Malware",
+        "Cryptography",
+        "Penetration Testing", 
+        "Malware Analysis",
       ]
     },
     
@@ -45,6 +45,15 @@
         "Data Science",
         "Deep Learning",
         "Natural Language Processing",
+      ]
+    },
+    
+    {
+      "name": "Web Development",
+      "keywords": [
+        "client-side/server-side scripting",
+        "server-port hardening",
+        "Programming",
       ]
     },
     
@@ -68,22 +77,48 @@
         "Javascript",
         "C",
         "C++",
-        "HTML/CSS"
+        "HTML/CSS",
+        "Node.js",
+        "React",
+        "Meteor",
+        "Semantic UI",
       ]
     },
     
     {
-      "name": "Adobe Photoshop",
+      "name": "Tools",
       "level": "Intermediate",
       "keywords": [
-        "Lightroom",
-        "Photo editting"
+        "Eclipse",
+        "Emacs",
+        "IntelliJ",
+        "Github",
+        "Photoshop",
+        "Linux/Unix"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "level": "Intermediate",
+      "keywords": [
+        "Discrete Mathematics",
+        "Calculus",
+      ]
+    },
+    
+     {
+      "name": "Experimentation",
+      "level": "Intermediate",
+      "keywords": [
+        "Problem Solving",
+        "Minimizing Error",
+        "Ethics"
       ]
     },
     
     {
-      "name": "Web Development",
-      "level": "Intermediate",
+      "name": "Full-Stack Web Development",
+      "level": "Entry Level",
       "keywords": [
         "Meteor",
         "React",
@@ -99,7 +134,7 @@
       "studyType": "B.A.",
       "startDate": "2017-08-01",
       "endDate": "Present",
-      "gpa": "2.99",
+      "gpa in major": "3.27",
     }
   ],
   
@@ -109,11 +144,11 @@
       "position": "Sales Associate",
       "website": "",
       "startDate": "2018-08-04",
-      "endDate": "Present",
+      "endDate": "2020-06-03",
       "summary": "Sales position",
       "highlights": [
         "responsible for ensuring security of stores", 
-        "assembling and disassembling different machines and keeping them in working condition",
+        "assembling and disassembling various machines and keeping them in working condition",
         "keeping my work environment up to health and safety standards.",
       ]
     },
